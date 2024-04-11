@@ -1,4 +1,4 @@
-#include <Servo.h>
+#include <Servo.h>  //Oficiální knihovna pro servo motory od arduina. Repozitář: https://github.com/arduino-libraries/Servo
 Servo myservo;
 const int servoPin = 6;
 int pos = 0;
