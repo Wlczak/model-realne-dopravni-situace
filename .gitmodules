@@ -1,0 +1,3 @@
+[submodule "zdrojove_kody/knihovny/Servo"]
+	path = zdrojove_kody/knihovny/Servo
+	url = https://github.com/arduino-libraries/Servo.git
